@@ -6,6 +6,10 @@ import { Component, OnInit } from '@angular/core';
     <p *ngIf="works">
       mylib works!
     </p>
+    <p *ngIf="!works">
+      i should not be displayed
+    </p>
+    <p>mylib present</p>
   `,
   styles: []
 })
