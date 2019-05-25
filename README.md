@@ -1,3 +1,10 @@
+# [SOLVED] 
+
+- don't use enableIvy in library
+- clean node_modules & .yalc between tries as ngcc is messing around
+
+
+
 # Angular 8 rc.2 + ivy : library problem
 
 
